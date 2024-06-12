@@ -1,0 +1,78 @@
+22:05:02.934 [main] INFO  identifyCourses.main - Failedcourse2
+22:05:11.542 [main] INFO  identifyCourses.main - passed langlearn
+22:05:17.691 [main] INFO  identifyCourses.main - Failedlanglist
+22:05:31.352 [main] INFO  identifyCourses.main - passed levelist
+22:06:03.529 [main] INFO  identifyCourses.main - passed homepage
+22:06:22.841 [main] INFO  identifyCourses.main - passed form
+22:09:42.855 [main] INFO  identifyCourses.main - passed search
+22:10:04.841 [main] INFO  identifyCourses.main - passed lang
+22:10:31.612 [main] INFO  identifyCourses.main - Failedlevel
+22:10:32.681 [main] INFO  identifyCourses.main - passed course1
+22:10:42.886 [main] INFO  identifyCourses.main - Failedcourse2
+22:10:50.765 [main] INFO  identifyCourses.main - passed langlearn
+22:11:16.626 [main] INFO  identifyCourses.main - passed langlist
+22:11:30.531 [main] INFO  identifyCourses.main - passed levelist
+22:12:17.707 [main] INFO  identifyCourses.main - passed homepage
+22:12:37.233 [main] INFO  identifyCourses.main - passed form
+22:15:11.817 [main] INFO  identifyCourses.main - passed search
+22:15:34.228 [main] INFO  identifyCourses.main - passed lang
+22:16:11.597 [main] INFO  identifyCourses.main - Failedlevel
+22:16:12.941 [main] INFO  identifyCourses.main - passed course1
+22:16:23.195 [main] INFO  identifyCourses.main - Failedcourse2
+22:16:31.567 [main] INFO  identifyCourses.main - passed langlearn
+22:16:37.863 [main] INFO  identifyCourses.main - Failedlanglist
+22:16:53.222 [main] INFO  identifyCourses.main - passed levelist
+22:17:52.534 [main] INFO  identifyCourses.main - passed homepage
+22:18:15.019 [main] INFO  identifyCourses.main - passed form
+22:21:00.183 [main] INFO  identifyCourses.main - passed search
+22:21:21.983 [main] INFO  identifyCourses.main - passed lang
+22:21:28.172 [main] INFO  identifyCourses.main - Failedlevel
+22:21:29.704 [main] INFO  identifyCourses.main - passed course1
+22:21:40.032 [main] INFO  identifyCourses.main - Failedcourse2
+22:21:48.556 [main] INFO  identifyCourses.main - passed langlearn
+22:28:55.871 [main] INFO  identifyCourses.main - passed search
+22:29:17.425 [main] INFO  identifyCourses.main - passed lang
+22:29:35.125 [main] INFO  identifyCourses.main - passed level
+22:29:36.044 [main] INFO  identifyCourses.main - passed course1
+22:29:36.671 [main] INFO  identifyCourses.main - passed course2
+22:29:44.066 [main] INFO  identifyCourses.main - passed langlearn
+22:30:09.390 [main] INFO  identifyCourses.main - passed langlist
+22:30:23.388 [main] INFO  identifyCourses.main - passed levelist
+22:31:02.337 [main] INFO  identifyCourses.main - passed homepage
+22:31:21.871 [main] INFO  identifyCourses.main - passed form
+22:59:40.808 [main] INFO  identifyCourses.main - passed search
+23:00:07.138 [main] INFO  identifyCourses.main - Failedlang
+23:00:25.715 [main] INFO  identifyCourses.main - passed level
+23:00:27.280 [main] INFO  identifyCourses.main - passed course1
+23:00:28.393 [main] INFO  identifyCourses.main - passed course2
+23:00:39.519 [main] INFO  identifyCourses.main - passed langlearn
+23:01:10.632 [main] INFO  identifyCourses.main - passed langlist
+23:01:25.431 [main] INFO  identifyCourses.main - passed levelist
+23:02:07.161 [main] INFO  identifyCourses.main - passed homepage
+23:02:27.205 [main] INFO  identifyCourses.main - passed form
+23:03:42.579 [main] INFO  identifyCourses.main - passed search
+23:04:04.649 [main] INFO  identifyCourses.main - passed lang
+23:04:22.811 [main] INFO  identifyCourses.main - passed level
+23:04:24.158 [main] INFO  identifyCourses.main - passed course1
+23:04:25.138 [main] INFO  identifyCourses.main - passed course2
+23:04:32.978 [main] INFO  identifyCourses.main - passed langlearn
+23:04:59.741 [main] INFO  identifyCourses.main - passed langlist
+23:05:13.677 [main] INFO  identifyCourses.main - passed levelist
+23:05:52.436 [main] INFO  identifyCourses.main - passed homepage
+23:06:11.140 [main] INFO  identifyCourses.main - passed form
+10:33:43.754 [main] INFO  identifyCourses.main - passed search
+10:34:05.318 [main] INFO  identifyCourses.main - passed lang
+10:34:22.998 [main] INFO  identifyCourses.main - passed level
+10:34:23.801 [main] INFO  identifyCourses.main - passed course1
+10:34:24.386 [main] INFO  identifyCourses.main - passed course2
+10:34:31.418 [main] INFO  identifyCourses.main - passed langlearn
+10:34:54.976 [main] INFO  identifyCourses.main - passed langlist
+10:35:08.485 [main] INFO  identifyCourses.main - passed levelist
+10:36:27.883 [main] INFO  identifyCourses.main - passed homepage
+10:36:44.908 [main] INFO  identifyCourses.main - passed form
+12:28:13.446 [main] INFO  identifyCourses.main - passed search
+12:28:35.067 [main] INFO  identifyCourses.main - passed lang
+12:28:53.084 [main] INFO  identifyCourses.main - passed level
+12:29:03.539 [main] INFO  identifyCourses.main - Failedcourse1
+12:29:13.791 [main] INFO  identifyCourses.main - Failedcourse2
+12:29:21.080 [main] INFO  identifyCourses.main - passed langlearn

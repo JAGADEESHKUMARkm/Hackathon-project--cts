@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="extendReport.report"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="identifyCourses.main">
+        <methods>
+          <include name="driver"/>
+          <include name="homepage"/>
+          <include name="course1"/>
+          <include name="lang"/>
+          <include name="course2"/>
+          <include name="close"/>
+          <include name="levelist"/>
+          <include name="form"/>
+          <include name="langlist"/>
+        </methods>
+      </class> <!-- identifyCourses.main -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

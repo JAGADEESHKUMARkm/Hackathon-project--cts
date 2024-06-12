@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--it is the xml version and unicode text version-->
+
+<!-- here the log msgs are in console and in rolling file of the given size -->
+
+<Configuration status="WARN">
+<!--this is the starting tag of xml file helps to idendify the error msgs if arises -->
+<Properties>
+<!-- the code of configuration or properties starts-->
+<Property name="basePath">./logs</Property>
+<!-- we give the folder location-->
+</Properties>
+<Appenders>
+<!-- it says where to send the log messages they are different types like console-means it prints in the console ,fle-saves to coputer file,email-sends to mail etc. -->
+
+
+<Console name="Console" target="SYSTEM_OUT">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+
+<!-- pattern to save the msg like time pass fail etc -->
+</Console>
+<RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+<!-- it saves the log in that file name and the path is given-->
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="5000" />
+<!-- size of log in bytes-->
+</RollingFile>
+</Appenders>
+<Loggers>
+<Root level="Info">
+<!-- lvl msgs are in in info lvl-->
+<AppenderRef ref="File"/>
+</Root>
+</Loggers>
+</Configuration>
